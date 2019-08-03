@@ -2,7 +2,7 @@
 
 ![](bjornsmixer.png)
 
-Eight track looping sample mixer built in Pure Data. For standalone use or via midi with Korg nanokontrol2.
+Eight track looping sample mixer built in Pure Data. For standalone use or via MIDI with Korg nanokontrol2.
 
 ## Usage
 

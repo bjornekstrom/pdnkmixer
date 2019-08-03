@@ -22,7 +22,7 @@ Use the two sliders on each channel to adjust volume and panning.
 
 Click `open test.wav, start` under *REC* to begin recording.
 
-Click `stop` under *STOP_REC` to stop recording.
+Click `stop` under *STOP_REC* to stop recording.
 
 ### Use w/ nanokontrol2
 

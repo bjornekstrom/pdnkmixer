@@ -6,7 +6,7 @@ Eight track looping sample mixer built in Pure Data. For standalone use or via M
 
 ## Usage
 
-Björn's mixer is a program for [Pure Data](https://puredata.info/downloads).
+Björn's mixer is a patch for [Pure Data](https://puredata.info/downloads).
 
 ### Loading samples
 

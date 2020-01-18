@@ -10,7 +10,7 @@ Björn's mixer is a patch for [Pure Data](https://puredata.info/downloads).
 
 ### Loading samples
 
-Place sample files (WAV) in a folder titled `s`.
+Place sample files (44.1 kHz, 16-bit stereo WAV) in a folder titled `s`.
 
 Load samples by typing the sample titles in the bottom message box for each channel: `open s/SAMPLETITLE.wav, 1`.
 
@@ -29,7 +29,3 @@ Click `stop` under *STOP_REC* to stop recording.
 ### Use w/ nanokontrol2
 
 Connect your nanokontrol2 (or another USB MIDI control surface) to the computer. Click Media >> MIDI settings... and choose nanokontrol2 as the Input Device.
-
-## Known bugs
-
-Samples may loop at double speed on Windows machines.

@@ -1,12 +1,12 @@
-# Björn's mixer
+# pdnkmixer
 
-![](bjornsmixer.png)
+![](pdnkmixer.png)
 
 Eight track looping sample mixer built in Pure Data. For standalone use or via MIDI with Korg nanokontrol2.
 
 ## Usage
 
-Björn's mixer is a patch for [Pure Data](https://puredata.info/downloads).
+pdnkmixer is a patch for [Pure Data](https://puredata.info/downloads).
 
 ### Loading samples
 
